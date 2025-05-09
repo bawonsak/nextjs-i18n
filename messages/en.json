@@ -15,5 +15,6 @@
     "language": "Language",
     "th": "th",
     "en": "en"
-  }
+  },
+  "price": "This product price {price} baht"
 }
